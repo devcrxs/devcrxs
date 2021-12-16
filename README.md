@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Cristian 🕺😺</h1>
 <h3 align="center">A passionate video game developer from Colombia 🐔</h3>
+<img hight="300" width="300" alt="GIF" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
 
 - 🌱 I’m currently learning **C#,Unity**
 
@@ -12,7 +13,7 @@
 <a href="https://instagram.com/devcrxs" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="devcrxs" height="40" /></a>
   <a href="https://www.tiktok.com/@devcrxs?lang=or-IN" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"height="40"/> </a>
  <a href="https://devcrxs.itch.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio"height="40"/> </a> 
-<img hight="300" width="300" alt="GIF" align="right" src="https://giffiles.alphacoders.com/297/2970.gif">
+
 
 </p>
 
