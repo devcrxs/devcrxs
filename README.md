@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🕺😺, I'm Cristian</h1>
+<h1 align="center">Hi, I'm Cristian 🕺😺</h1>
 <h3 align="center">A passionate video game developer from Colombia 🐔</h3>
 
 - 🌱 I’m currently learning **C#,Unity**
